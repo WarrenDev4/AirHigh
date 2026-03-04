@@ -1,5 +1,7 @@
 <img width="2195" height="549" alt="AirHigh Logo Name" src="https://github.com/user-attachments/assets/be0759d6-fe4b-49c2-8646-db853cef6248" />
-AirHigh is an upcoming AI-powered empowerment platform that that will use the power of AI to empower professionals who are looking to reach their goals and chase their dreams within their career and life in order to elevate to new heights and take on challenges to reach them. The platform will build an intelligent, personalized path to help users:
+AirHigh is an upcoming AI-powered empowerment platform that that will use the power of AI to empower professionals who are looking to reach their goals and chase their dreams within their career and life in order to elevate to new heights and take on challenges to reach them. 
+
+The platform will build an intelligent, personalized path to help users:
 
 * Achieve their most important goals
 * Make confident, values-aligned decisions
